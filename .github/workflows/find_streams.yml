@@ -1,0 +1,40 @@
+name: Find Twitch Streams
+
+on:
+  workflow_dispatch:  # Manual trigger
+  schedule:
+    - cron: '0 16 * * *'  # Run daily at 16:00 UTC (12:00 AM MYT)
+
+jobs:
+  find-streams:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4
+        
+    - name: Run Twitch Stream Finder
+      run: |
+        python scripts/find_streams.py
+        
+    - name: Create M3U8 Playlists
+      run: |
+        python scripts/create_m3u8_playlist.py
+        
+    - name: Commit and push if changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add output/
+        git diff --staged --quiet || git commit -m "Daily stream data update - $(date +'%Y-%m-%d')"
+        git push
