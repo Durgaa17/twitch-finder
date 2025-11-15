@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated: 2025-11-14T16:29:24.995060
-# Source Last Updated: 2025-11-14T16:29:24.931949
-# Total Live Streams: 1
+# Generated: 2025-11-15T00:01:49.257351
+# Source Last Updated: 2025-11-15T00:01:49.202650
+# Total Live Streams: 0
 
-#EXTINF:-1 tvg-id="arivumani1079" tvg-name="arivumani1079" tvg-logo="" group-title="Twitch",arivumani1079 - 0 viewers - Offline
-https://usher.ttvnw.net/api/channel/hls/arivumani1079.m3u8?sig=75f6efeb9e428a8d7830677ddc22ff9b87e68115&token={"adblock":false,"authorization":{"forbidden":false,"reason":""},"blackout_enabled":false,"channel":"arivumani1079","channel_id":1392531593,"chansub":{"restricted_bitrates":[],"view_until":1924905600},"ci_gb":false,"geoblock_reason":"","device_id":null,"expires":1763138960,"extended_history_allowed":false,"game":"","hide_ads":false,"https_required":true,"mature":false,"partner":false,"platform":"web","player_type":"site","private":{"allowed_to_view":true},"privileged":false,"role":"","server_ads":true,"show_ads":true,"subscriber":false,"turbo":false,"user_id":null,"user_ip":"64.236.176.150","version":3,"maximum_resolution":"FULL_HD","maximum_video_bitrate_kbps":12500,"maximum_resolution_reasons":{"QUAD_HD":["AUTHZ_NOT_LOGGED_IN"],"ULTRA_HD":["AUTHZ_NOT_LOGGED_IN"]},"maximum_video_bitrate_kbps_reasons":["AUTHZ_DISALLOWED_BITRATE"]}
+# No live streams currently available
+# Check back later or run the workflow again
