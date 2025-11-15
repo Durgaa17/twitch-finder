@@ -1,3 +1,8 @@
 #EXTM3U
-# Twitch Live Streams - 2025-11-15 00:01:49
-# Live: 0/6
+# Twitch Live Streams - 2025-11-15 16:25:05
+# Live: 2/7
+
+#EXTINF:-1,arivumani1079
+https://usher.ttvnw.net/api/channel/hls/arivumani1079.m3u8?sig=4647f459001f883f0c72f03f9875630c1c2bea4d&token={"adblock":false,"authorization":{"forbidden":false,"reason":""},"blackout_enabled":false,"channel":"arivumani1079","channel_id":1392531593,"chansub":{"restricted_bitrates":[],"view_until":1924905600},"ci_gb":false,"geoblock_reason":"","device_id":null,"expires":1763225099,"extended_history_allowed":false,"game":"","hide_ads":false,"https_required":true,"mature":false,"partner":false,"platform":"web","player_type":"site","private":{"allowed_to_view":true},"privileged":false,"role":"","server_ads":true,"show_ads":true,"subscriber":false,"turbo":false,"user_id":null,"user_ip":"20.161.30.242","version":3,"maximum_resolution":"FULL_HD","maximum_video_bitrate_kbps":12500,"maximum_resolution_reasons":{"QUAD_HD":["AUTHZ_NOT_LOGGED_IN"],"ULTRA_HD":["AUTHZ_NOT_LOGGED_IN"]},"maximum_video_bitrate_kbps_reasons":["AUTHZ_DISALLOWED_BITRATE"]}
+#EXTINF:-1,tamilray211017t
+https://usher.ttvnw.net/api/channel/hls/tamilray211017t.m3u8?sig=e9f55380c68f6ddda6421df1867bdda73ddd60bf&token={"adblock":false,"authorization":{"forbidden":false,"reason":""},"blackout_enabled":false,"channel":"tamilray211017t","channel_id":1392989963,"chansub":{"restricted_bitrates":[],"view_until":1924905600},"ci_gb":false,"geoblock_reason":"","device_id":null,"expires":1763225103,"extended_history_allowed":false,"game":"","hide_ads":false,"https_required":true,"mature":false,"partner":false,"platform":"web","player_type":"site","private":{"allowed_to_view":true},"privileged":false,"role":"","server_ads":true,"show_ads":true,"subscriber":false,"turbo":false,"user_id":null,"user_ip":"20.161.30.242","version":3,"maximum_resolution":"FULL_HD","maximum_video_bitrate_kbps":12500,"maximum_resolution_reasons":{"QUAD_HD":["AUTHZ_NOT_LOGGED_IN"],"ULTRA_HD":["AUTHZ_NOT_LOGGED_IN"]},"maximum_video_bitrate_kbps_reasons":["AUTHZ_DISALLOWED_BITRATE"]}
