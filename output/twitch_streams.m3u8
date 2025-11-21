@@ -1,10 +1,7 @@
 #EXTM3U
-# Generated: 2025-11-20T16:30:43.282540
-# Source Last Updated: 2025-11-20T16:30:43.231238
-# Total Live Streams: 2
+# Generated: 2025-11-21T16:28:26.345725
+# Source Last Updated: 2025-11-21T16:28:26.289541
+# Total Live Streams: 0
 
-#EXTINF:-1 tvg-id="arivumani1095" tvg-name="arivumani1095" tvg-logo="" group-title="Twitch",arivumani1095 - 0 viewers - Offline
-https://usher.ttvnw.net/api/channel/hls/arivumani1095.m3u8?sig=3938808fe01adc29a41b337a90fad65d0d780d7b&token={"adblock":false,"authorization":{"forbidden":false,"reason":""},"blackout_enabled":false,"channel":"arivumani1095","channel_id":1394501429,"chansub":{"restricted_bitrates":[],"view_until":1924905600},"ci_gb":false,"geoblock_reason":"","device_id":null,"expires":1763657438,"extended_history_allowed":false,"game":"","hide_ads":false,"https_required":true,"mature":false,"partner":false,"platform":"web","player_type":"site","private":{"allowed_to_view":true},"privileged":false,"role":"","server_ads":true,"show_ads":true,"subscriber":false,"turbo":false,"user_id":null,"user_ip":"20.168.119.88","version":3,"maximum_resolution":"FULL_HD","maximum_video_bitrate_kbps":12500,"maximum_resolution_reasons":{"QUAD_HD":["AUTHZ_NOT_LOGGED_IN"],"ULTRA_HD":["AUTHZ_NOT_LOGGED_IN"]},"maximum_video_bitrate_kbps_reasons":["AUTHZ_DISALLOWED_BITRATE"]}
-
-#EXTINF:-1 tvg-id="tamilray211017d" tvg-name="tamilray211017d" tvg-logo="" group-title="Twitch",tamilray211017d - 0 viewers - Offline
-https://usher.ttvnw.net/api/channel/hls/tamilray211017d.m3u8?sig=036786810332e790622f2035ac4cf463a50669b1&token={"adblock":false,"authorization":{"forbidden":false,"reason":""},"blackout_enabled":false,"channel":"tamilray211017d","channel_id":1388192125,"chansub":{"restricted_bitrates":[],"view_until":1924905600},"ci_gb":false,"geoblock_reason":"","device_id":null,"expires":1763657440,"extended_history_allowed":false,"game":"","hide_ads":false,"https_required":true,"mature":false,"partner":false,"platform":"web","player_type":"site","private":{"allowed_to_view":true},"privileged":false,"role":"","server_ads":true,"show_ads":true,"subscriber":false,"turbo":false,"user_id":null,"user_ip":"20.168.119.88","version":3,"maximum_resolution":"FULL_HD","maximum_video_bitrate_kbps":12500,"maximum_resolution_reasons":{"QUAD_HD":["AUTHZ_NOT_LOGGED_IN"],"ULTRA_HD":["AUTHZ_NOT_LOGGED_IN"]},"maximum_video_bitrate_kbps_reasons":["AUTHZ_DISALLOWED_BITRATE"]}
+# No live streams currently available
+# Check back later or run the workflow again
