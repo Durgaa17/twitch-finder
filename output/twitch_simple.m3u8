@@ -1,6 +1,6 @@
 #EXTM3U
-# Twitch Live Streams - 2025-12-03 16:34:21
-# Live: 1/6
+# Twitch Live Streams - 2025-12-04 16:34:37
+# Live: 1/7
 
-#EXTINF:-1,arivumani2026
-https://usher.ttvnw.net/api/channel/hls/arivumani2026.m3u8?sig=8ac8fab001dc0a327ef476c9e03af856f0248c78&token={"adblock":false,"authorization":{"forbidden":false,"reason":""},"blackout_enabled":false,"channel":"arivumani2026","channel_id":1400303086,"chansub":{"restricted_bitrates":[],"view_until":1924905600},"ci_gb":false,"geoblock_reason":"","device_id":null,"expires":1764780857,"extended_history_allowed":false,"game":"","hide_ads":false,"https_required":true,"mature":false,"partner":false,"platform":"web","player_type":"site","private":{"allowed_to_view":true},"privileged":false,"role":"","server_ads":true,"show_ads":true,"subscriber":false,"turbo":false,"user_id":null,"user_ip":"40.76.181.210","version":3,"maximum_resolution":"FULL_HD","maximum_video_bitrate_kbps":12500,"maximum_resolution_reasons":{"QUAD_HD":["AUTHZ_NOT_LOGGED_IN"],"ULTRA_HD":["AUTHZ_NOT_LOGGED_IN"]},"maximum_video_bitrate_kbps_reasons":["AUTHZ_DISALLOWED_BITRATE"]}
+#EXTINF:-1,preia34
+https://usher.ttvnw.net/api/channel/hls/preia34.m3u8?sig=c4882c01f6b666c3915dfdd986dd3b614fa2c57b&token={"adblock":false,"authorization":{"forbidden":false,"reason":""},"blackout_enabled":false,"channel":"preia34","channel_id":1400894839,"chansub":{"restricted_bitrates":[],"view_until":1924905600},"ci_gb":false,"geoblock_reason":"","device_id":null,"expires":1764867275,"extended_history_allowed":false,"game":"","hide_ads":false,"https_required":true,"mature":false,"partner":false,"platform":"web","player_type":"site","private":{"allowed_to_view":true},"privileged":false,"role":"","server_ads":true,"show_ads":true,"subscriber":false,"turbo":false,"user_id":null,"user_ip":"68.220.61.1","version":3,"maximum_resolution":"FULL_HD","maximum_video_bitrate_kbps":12500,"maximum_resolution_reasons":{"QUAD_HD":["AUTHZ_NOT_LOGGED_IN"],"ULTRA_HD":["AUTHZ_NOT_LOGGED_IN"]},"maximum_video_bitrate_kbps_reasons":["AUTHZ_DISALLOWED_BITRATE"]}
