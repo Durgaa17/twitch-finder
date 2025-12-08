@@ -1,3 +1,8 @@
 #EXTM3U
-# Twitch Live Streams - 2025-12-07 16:26:46
-# Live: 0/6
+# Twitch Live Streams - 2025-12-08 16:32:52
+# Live: 2/7
+
+#EXTINF:-1,Mayammal
+https://usher.ttvnw.net/api/channel/hls/Mayammal.m3u8?sig=a173e608a910f557103c4e562a917f35c86270c0&token={"adblock":false,"authorization":{"forbidden":false,"reason":""},"blackout_enabled":false,"channel":"mayammal","channel_id":1402983454,"chansub":{"restricted_bitrates":[],"view_until":1924905600},"ci_gb":false,"geoblock_reason":"","device_id":null,"expires":1765212763,"extended_history_allowed":false,"game":"","hide_ads":false,"https_required":true,"mature":false,"partner":false,"platform":"web","player_type":"site","private":{"allowed_to_view":true},"privileged":false,"role":"","server_ads":true,"show_ads":true,"subscriber":false,"turbo":false,"user_id":null,"user_ip":"4.246.134.179","version":3,"maximum_resolution":"FULL_HD","maximum_video_bitrate_kbps":12500,"maximum_resolution_reasons":{"QUAD_HD":["AUTHZ_NOT_LOGGED_IN"],"ULTRA_HD":["AUTHZ_NOT_LOGGED_IN"]},"maximum_video_bitrate_kbps_reasons":["AUTHZ_DISALLOWED_BITRATE"]}
+#EXTINF:-1,arivumani2034
+https://usher.ttvnw.net/api/channel/hls/arivumani2034.m3u8?sig=b56621be4a0109d0d8517cc0fc95a216c8d43ab8&token={"adblock":false,"authorization":{"forbidden":false,"reason":""},"blackout_enabled":false,"channel":"arivumani2034","channel_id":1403335037,"chansub":{"restricted_bitrates":[],"view_until":1924905600},"ci_gb":false,"geoblock_reason":"","device_id":null,"expires":1765212769,"extended_history_allowed":false,"game":"","hide_ads":false,"https_required":true,"mature":false,"partner":false,"platform":"web","player_type":"site","private":{"allowed_to_view":true},"privileged":false,"role":"","server_ads":true,"show_ads":true,"subscriber":false,"turbo":false,"user_id":null,"user_ip":"4.246.134.179","version":3,"maximum_resolution":"FULL_HD","maximum_video_bitrate_kbps":12500,"maximum_resolution_reasons":{"QUAD_HD":["AUTHZ_NOT_LOGGED_IN"],"ULTRA_HD":["AUTHZ_NOT_LOGGED_IN"]},"maximum_video_bitrate_kbps_reasons":["AUTHZ_DISALLOWED_BITRATE"]}
