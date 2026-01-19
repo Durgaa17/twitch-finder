@@ -1,6 +1,3 @@
 #EXTM3U
-# Twitch Live Streams - 2026-01-18 16:29:04
-# Live: 1/6
-
-#EXTINF:-1,arivumani2083
-https://usher.ttvnw.net/api/channel/hls/arivumani2083.m3u8?sig=8cb1c17711610ddad1e0b59364ff38267f2a7e70&token={"adblock":false,"authorization":{"forbidden":false,"reason":""},"blackout_enabled":false,"channel":"arivumani2083","channel_id":1427024960,"chansub":{"restricted_bitrates":[],"view_until":1924905600},"ci_gb":false,"geoblock_reason":"","device_id":null,"expires":1768754941,"extended_history_allowed":false,"game":"","hide_ads":false,"https_required":true,"mature":false,"partner":false,"platform":"web","player_type":"site","private":{"allowed_to_view":true},"privileged":false,"role":"","server_ads":true,"show_ads":true,"subscriber":false,"turbo":false,"user_id":null,"user_ip":"172.184.213.177","version":3,"maximum_resolution":"FULL_HD","maximum_video_bitrate_kbps":12500,"maximum_resolution_reasons":{"QUAD_HD":["AUTHZ_NOT_LOGGED_IN"],"ULTRA_HD":["AUTHZ_NOT_LOGGED_IN"]},"maximum_video_bitrate_kbps_reasons":["AUTHZ_DISALLOWED_BITRATE"]}
+# Twitch Live Streams - 2026-01-19 16:34:51
+# Live: 0/6
