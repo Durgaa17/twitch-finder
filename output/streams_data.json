@@ -1,45 +1,50 @@
 {
-  "last_updated": "2026-08-26T16:49:13.148857",
+  "last_updated": "2026-08-28T00:47:25.070251",
   "streams": [
     {
       "channel": "Sadanand17",
       "is_live": false,
       "viewers": "0",
-      "game": "Offline",
-      "m3u8_url": "https://usher.ttvnw.net/api/channel/hls/Sadanand17.m3u8?sig=c55e3e4023d17448b93cd0bcabacdc7da16717d1&token={\"adblock\":false,\"authorization\":{\"forbidden\":false,\"reason\":\"\"},\"blackout_enabled\":false,\"channel\":\"sadanand17\",\"channel_id\":1426075748,\"chansub\":{\"restricted_bitrates\":[],\"view_until\":1924905600},\"ci_gb\":false,\"geoblock_reason\":\"\",\"device_id\":null,\"expires\":1787764145,\"extended_history_allowed\":false,\"game\":\"\",\"hide_ads\":false,\"https_required\":true,\"mature\":false,\"notification_id\":null,\"partner\":false,\"platform\":\"web\",\"player_type\":\"site\",\"private\":{\"allowed_to_view\":true},\"privileged\":false,\"role\":\"\",\"server_ads\":true,\"show_ads\":true,\"subscriber\":false,\"turbo\":false,\"user_id\":null,\"user_ip\":\"20.172.192.251\",\"version\":3,\"maximum_resolution\":\"FULL_HD\",\"maximum_video_bitrate_kbps\":12500,\"maximum_resolution_reasons\":{\"QUAD_HD\":[\"AUTHZ_NOT_LOGGED_IN\"],\"ULTRA_HD\":[\"AUTHZ_NOT_LOGGED_IN\"]},\"maximum_video_bitrate_kbps_reasons\":[\"AUTHZ_DISALLOWED_BITRATE\"]}",
-      "profile_url": "https://twitch.tv/Sadanand17"
+      "game": "Error",
+      "m3u8_url": "",
+      "profile_url": "https://twitch.tv/Sadanand17",
+      "error": "'data'"
     },
     {
       "channel": "arivumani1075",
       "is_live": false,
       "viewers": "0",
-      "game": "Offline",
-      "m3u8_url": "https://usher.ttvnw.net/api/channel/hls/arivumani1075.m3u8?sig=1e67ab894f9629e725d2d420898b8205af9182b7&token={\"adblock\":false,\"authorization\":{\"forbidden\":false,\"reason\":\"\"},\"blackout_enabled\":false,\"channel\":\"arivumani1075\",\"channel_id\":1391583423,\"chansub\":{\"restricted_bitrates\":[],\"view_until\":1924905600},\"ci_gb\":false,\"geoblock_reason\":\"\",\"device_id\":null,\"expires\":1787764147,\"extended_history_allowed\":false,\"game\":\"\",\"hide_ads\":false,\"https_required\":true,\"mature\":false,\"notification_id\":null,\"partner\":false,\"platform\":\"web\",\"player_type\":\"site\",\"private\":{\"allowed_to_view\":true},\"privileged\":false,\"role\":\"\",\"server_ads\":true,\"show_ads\":true,\"subscriber\":false,\"turbo\":false,\"user_id\":null,\"user_ip\":\"20.172.192.251\",\"version\":3,\"maximum_resolution\":\"FULL_HD\",\"maximum_video_bitrate_kbps\":12500,\"maximum_resolution_reasons\":{\"QUAD_HD\":[\"AUTHZ_NOT_LOGGED_IN\"],\"ULTRA_HD\":[\"AUTHZ_NOT_LOGGED_IN\"]},\"maximum_video_bitrate_kbps_reasons\":[\"AUTHZ_DISALLOWED_BITRATE\"]}",
-      "profile_url": "https://twitch.tv/arivumani1075"
+      "game": "Error",
+      "m3u8_url": "",
+      "profile_url": "https://twitch.tv/arivumani1075",
+      "error": "'data'"
     },
     {
       "channel": "arivumani1076",
       "is_live": false,
       "viewers": "0",
-      "game": "Offline",
-      "m3u8_url": "https://usher.ttvnw.net/api/channel/hls/arivumani1076.m3u8?sig=dabeab4a65eb3b02d82568cfc593b9a2a47f1422&token={\"adblock\":false,\"authorization\":{\"forbidden\":false,\"reason\":\"\"},\"blackout_enabled\":false,\"channel\":\"arivumani1076\",\"channel_id\":1391842368,\"chansub\":{\"restricted_bitrates\":[],\"view_until\":1924905600},\"ci_gb\":false,\"geoblock_reason\":\"\",\"device_id\":null,\"expires\":1787764148,\"extended_history_allowed\":false,\"game\":\"\",\"hide_ads\":false,\"https_required\":true,\"mature\":false,\"notification_id\":null,\"partner\":false,\"platform\":\"web\",\"player_type\":\"site\",\"private\":{\"allowed_to_view\":true},\"privileged\":false,\"role\":\"\",\"server_ads\":true,\"show_ads\":true,\"subscriber\":false,\"turbo\":false,\"user_id\":null,\"user_ip\":\"20.172.192.251\",\"version\":3,\"maximum_resolution\":\"FULL_HD\",\"maximum_video_bitrate_kbps\":12500,\"maximum_resolution_reasons\":{\"QUAD_HD\":[\"AUTHZ_NOT_LOGGED_IN\"],\"ULTRA_HD\":[\"AUTHZ_NOT_LOGGED_IN\"]},\"maximum_video_bitrate_kbps_reasons\":[\"AUTHZ_DISALLOWED_BITRATE\"]}",
-      "profile_url": "https://twitch.tv/arivumani1076"
+      "game": "Error",
+      "m3u8_url": "",
+      "profile_url": "https://twitch.tv/arivumani1076",
+      "error": "'data'"
     },
     {
       "channel": "arivumani2084",
       "is_live": false,
       "viewers": "0",
-      "game": "Offline",
-      "m3u8_url": "https://usher.ttvnw.net/api/channel/hls/arivumani2084.m3u8?sig=7bf0f7b7aa948d68c4be8302b670fcfd233c0602&token={\"adblock\":false,\"authorization\":{\"forbidden\":false,\"reason\":\"\"},\"blackout_enabled\":false,\"channel\":\"arivumani2084\",\"channel_id\":1427126153,\"chansub\":{\"restricted_bitrates\":[],\"view_until\":1924905600},\"ci_gb\":false,\"geoblock_reason\":\"\",\"device_id\":null,\"expires\":1787764149,\"extended_history_allowed\":false,\"game\":\"\",\"hide_ads\":false,\"https_required\":true,\"mature\":false,\"notification_id\":null,\"partner\":false,\"platform\":\"web\",\"player_type\":\"site\",\"private\":{\"allowed_to_view\":true},\"privileged\":false,\"role\":\"\",\"server_ads\":true,\"show_ads\":true,\"subscriber\":false,\"turbo\":false,\"user_id\":null,\"user_ip\":\"20.172.192.251\",\"version\":3,\"maximum_resolution\":\"FULL_HD\",\"maximum_video_bitrate_kbps\":12500,\"maximum_resolution_reasons\":{\"QUAD_HD\":[\"AUTHZ_NOT_LOGGED_IN\"],\"ULTRA_HD\":[\"AUTHZ_NOT_LOGGED_IN\"]},\"maximum_video_bitrate_kbps_reasons\":[\"AUTHZ_DISALLOWED_BITRATE\"]}",
-      "profile_url": "https://twitch.tv/arivumani2084"
+      "game": "Error",
+      "m3u8_url": "",
+      "profile_url": "https://twitch.tv/arivumani2084",
+      "error": "'data'"
     },
     {
       "channel": "biggbosslive",
       "is_live": false,
       "viewers": "0",
-      "game": "Offline",
-      "m3u8_url": "https://usher.ttvnw.net/api/channel/hls/biggbosslive.m3u8?sig=ae403ce7ddc5e32e9aabefe05c40339c23230c68&token={\"adblock\":false,\"authorization\":{\"forbidden\":false,\"reason\":\"\"},\"blackout_enabled\":false,\"channel\":\"biggbosslive\",\"channel_id\":165907367,\"chansub\":{\"restricted_bitrates\":[],\"view_until\":1924905600},\"ci_gb\":false,\"geoblock_reason\":\"\",\"device_id\":null,\"expires\":1787764150,\"extended_history_allowed\":false,\"game\":\"\",\"hide_ads\":false,\"https_required\":true,\"mature\":false,\"notification_id\":null,\"partner\":false,\"platform\":\"web\",\"player_type\":\"site\",\"private\":{\"allowed_to_view\":true},\"privileged\":false,\"role\":\"\",\"server_ads\":true,\"show_ads\":true,\"subscriber\":false,\"turbo\":false,\"user_id\":null,\"user_ip\":\"20.172.192.251\",\"version\":3,\"maximum_resolution\":\"FULL_HD\",\"maximum_video_bitrate_kbps\":12500,\"maximum_resolution_reasons\":{\"QUAD_HD\":[\"AUTHZ_NOT_LOGGED_IN\"],\"ULTRA_HD\":[\"AUTHZ_NOT_LOGGED_IN\"]},\"maximum_video_bitrate_kbps_reasons\":[\"AUTHZ_DISALLOWED_BITRATE\"]}",
-      "profile_url": "https://twitch.tv/biggbosslive"
+      "game": "Error",
+      "m3u8_url": "",
+      "profile_url": "https://twitch.tv/biggbosslive",
+      "error": "'data'"
     },
     {
       "channel": "tamilstream1",
@@ -48,7 +53,7 @@
       "game": "Error",
       "m3u8_url": "",
       "profile_url": "https://twitch.tv/tamilstream1",
-      "error": "'NoneType' object is not subscriptable"
+      "error": "'data'"
     }
   ]
 }
